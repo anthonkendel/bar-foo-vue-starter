@@ -27,4 +27,4 @@ npm run build
 
 ## Issues 🦀
 
-If any issues are found please submit them to the GitHub repository.
+If any issues are found please submit them to the repository.
